@@ -31,8 +31,7 @@ Data Science Without Borders (DSWB) is an international initiative, funded by th
 
 ## Licensing
 
-Clearly define the license under which the repository's work is shared.
-(Example: This project is licensed under the MIT License - see the LICENSE.md file for details.)
+This project is licensed under the MIT License, and the Creative Commons Attribution 4.0 International Public License  - see the LICENSE.md file for more details.
 
 ## Citing & Acknowledgement
 
