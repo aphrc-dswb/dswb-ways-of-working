@@ -49,3 +49,5 @@
 
 1. Open science website draft: [https://docs.google.com/document/d/1YOxotZ\_ihi8s0-XoI\_1r\_rm88qNS\_4YkP5uumVwnlHs/edit?tab=t.0](https://docs.google.com/document/d/1YOxotZ\_ihi8s0-XoI\_1r\_rm88qNS\_4YkP5uumVwnlHs/edit?tab=t.0) 
 
+See [the previous meeting note](https://github.com/aphrc-dswb/dswb-ways-of-working/blob/main/project-management/communications/coworking-calls/20241204-coworking-call-notes.md) for more context.
+
