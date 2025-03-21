@@ -33,6 +33,6 @@
 
 ### Things we worked on
 
-   * We worked on proposing topics for the next few months in the open science and capacity building work group. 
+   * We reviewed previous notes, had members suggest more topics, and had discussions on data sharing. 
 
-See [previous meeting note](https://github.com/aphrc-dswb/dswb-ways-of-working/blob/main/project-management/communications/coworking-calls/20250305-coworking-call-notes.md) for more information.
+See [previous meeting note](https://github.com/aphrc-dswb/dswb-ways-of-working/blob/main/project-management/communications/coworking-calls/20250312-coworking-call-notes.md) for more information.
